@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiaohui-c)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://img.shields.io/badge/<language>-<Javascript>-<language>-<Javascript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<language>-<Javascript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
