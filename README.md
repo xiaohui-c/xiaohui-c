@@ -94,22 +94,44 @@ const xiaohui = {
 
 ## 📌 Pinned Projects
 
-<div align="center">
-
-<a href="https://github.com/xiaohui-c/WebDevelopment">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaohui-c&repo=WebDevelopment&theme=tokyonight&hide_border=true" alt="WebDevelopment" />
-</a>
-<a href="https://github.com/xiaohui-c/vupage">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaohui-c&repo=vupage&theme=tokyonight&hide_border=true" alt="vupage" />
-</a>
-<a href="https://github.com/xiaohui-c/ToyReact">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaohui-c&repo=ToyReact&theme=tokyonight&hide_border=true" alt="ToyReact" />
-</a>
-<a href="https://github.com/xiaohui-c/qiushibaike">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaohui-c&repo=qiushibaike&theme=tokyonight&hide_border=true" alt="qiushibaike" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 <a href="https://github.com/xiaohui-c/WebDevelopment">WebDevelopment</a></h3>
+      <p align="center">
+        <a href="https://github.com/xiaohui-c/WebDevelopment"><img src="https://img.shields.io/github/stars/xiaohui-c/WebDevelopment?style=flat-square&color=yellow" /></a>
+        <a href="https://github.com/xiaohui-c/WebDevelopment"><img src="https://img.shields.io/github/languages/top/xiaohui-c/WebDevelopment?style=flat-square" /></a>
+      </p>
+      <p align="center">Web 开发练习集合，前端学习的第一站 🚀</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧩 <a href="https://github.com/xiaohui-c/vupage">vupage</a></h3>
+      <p align="center">
+        <a href="https://github.com/xiaohui-c/vupage"><img src="https://img.shields.io/github/stars/xiaohui-c/vupage?style=flat-square&color=yellow" /></a>
+        <a href="https://github.com/xiaohui-c/vupage"><img src="https://img.shields.io/github/languages/top/xiaohui-c/vupage?style=flat-square" /></a>
+      </p>
+      <p align="center">基于 Vue 的 UI 组件库实践 🎨</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚛️ <a href="https://github.com/xiaohui-c/ToyReact">ToyReact</a></h3>
+      <p align="center">
+        <a href="https://github.com/xiaohui-c/ToyReact"><img src="https://img.shields.io/github/stars/xiaohui-c/ToyReact?style=flat-square&color=yellow" /></a>
+        <a href="https://github.com/xiaohui-c/ToyReact"><img src="https://img.shields.io/github/languages/top/xiaohui-c/ToyReact?style=flat-square" /></a>
+      </p>
+      <p align="center">手写迷你 React，理解框架原理 🛠️</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 <a href="https://github.com/xiaohui-c/qiushibaike">qiushibaike</a></h3>
+      <p align="center">
+        <a href="https://github.com/xiaohui-c/qiushibaike"><img src="https://img.shields.io/github/stars/xiaohui-c/qiushibaike?style=flat-square&color=yellow" /></a>
+        <a href="https://github.com/xiaohui-c/qiushibaike"><img src="https://img.shields.io/github/languages/top/xiaohui-c/qiushibaike?style=flat-square" /></a>
+      </p>
+      <p align="center">使用 uni-app 实践跨端开发 📲</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -117,11 +139,6 @@ const xiaohui = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xiaohui-c&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</div>
-
-<!-- 贪吃蛇贡献图（需要先在仓库启用 Snake GitHub Action 生成，详见底部说明） -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/xiaohui-c/xiaohui-c/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 ---
