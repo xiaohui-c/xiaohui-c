@@ -27,8 +27,8 @@
 ### 📊 Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=xiaohui-c&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&icon_color=58A6FF&title_color=58A6FF" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaohui-c&layout=compact&theme=transparent&hide_border=true&langs_count=6&title_color=58A6FF" alt="top langs" />
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xiaohui-c&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&icon_color=58A6FF&title_color=58A6FF" alt="stats" />
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xiaohui-c&layout=compact&theme=transparent&hide_border=true&langs_count=6&title_color=58A6FF" alt="top langs" />
 </p>
 
 ### 📌 Projects
